@@ -41,15 +41,21 @@ I care a lot about clean UI, product clarity, and smooth user experience, but I 
 
 ## Featured Project
 
+<p align="center">
+  <a href="https://pigtex.id.vn/">
+    <img src="./pigtex.png" alt="PigTex project preview" width="88%" />
+  </a>
+</p>
+
 <table>
   <tr>
     <td width="100%" valign="top">
       <strong>PigTex</strong><br />
       Open-Source AI Desktop Product<br /><br />
-      This is my strongest project and the best example of how I work. I built PigTex end-to-end, from product direction and user experience to implementation and delivery.<br /><br />
+      This is my strongest project and the clearest example of how I work. I built PigTex end-to-end, from concept, product direction, and interface thinking to implementation and launch.<br /><br />
       PigTex is a modern AI assistant product with multitasking workflows and multi-model support, designed to make AI usage feel more practical and flexible.<br /><br />
-      <strong>Role:</strong> Full build by me<br />
-      <strong>Focus:</strong> Product design, interface structure, workflow thinking, implementation, and launch<br /><br />
+      <strong>Role:</strong> Solo end-to-end build<br />
+      <strong>Focus:</strong> Product design, UI/UX, frontend implementation, workflow thinking, and shipping<br /><br />
       <a href="https://pigtex.id.vn/">Website</a> |
       <a href="https://github.com/ctex-ai/PigTex">GitHub</a>
     </td>
