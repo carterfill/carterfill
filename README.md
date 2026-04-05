@@ -5,8 +5,8 @@
 <h1 align="center">Nguyen Thanh Do (Carter Fill)</h1>
 
 <p align="center">
-  Frontend Developer building polished digital products with clear UX,
-  strong visual structure, and practical AI integration.
+  Full-Stack Website Developer building product websites, web apps,
+  and AI-powered experiences from idea to launch.
 </p>
 
 <p align="center">
@@ -24,65 +24,75 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Experience-2%2B%20Years-5baf63?style=flat-square" alt="2+ years experience" />
   <img src="https://img.shields.io/badge/Products-3%20Completed-4f9f58?style=flat-square" alt="3 completed products" />
-  <img src="https://img.shields.io/badge/Open%20To%20Work-Frontend%20and%20Product%20Web-2e8b57?style=flat-square" alt="Open to work" />
+  <img src="https://img.shields.io/badge/Open%20To%20Work-Full--Stack%20Website%20Roles-2e8b57?style=flat-square" alt="Open to work" />
 </p>
 
 <p align="center">
-  Turning ideas into digital products with patience, clarity, and experience-first execution.
+  I move fast from concept to shipped product with strong UI instincts, practical backend thinking, and a builder mindset.
 </p>
 
 ---
 
 ## About Me
 
-I am a frontend-focused developer from Vietnam who cares deeply about how a product looks, feels, and works in real use. My work sits at the intersection of UI design, frontend engineering, and product thinking.
+I am a full-stack website developer from Vietnam who enjoys turning ideas into real products quickly. My workflow is hands-on and end-to-end: shaping the interface, building the frontend, wiring integrations, handling backend logic, and shipping something people can actually use.
 
-I enjoy building portfolio websites, landing pages, responsive web interfaces, and AI-powered product experiences that feel clean, readable, and intentional from the first interaction.
+I care a lot about clean UI, product clarity, and smooth user experience, but I also enjoy the speed of building and iterating until an idea becomes a usable product. That is the energy behind how I work.
+
+## Featured Project
+
+<table>
+  <tr>
+    <td width="100%" valign="top">
+      <strong>PigTex</strong><br />
+      Open-Source AI Desktop Product<br /><br />
+      This is my strongest project and the best example of how I work. I built PigTex end-to-end, from product direction and user experience to implementation and delivery.<br /><br />
+      PigTex is a modern AI assistant product with multitasking workflows and multi-model support, designed to make AI usage feel more practical and flexible.<br /><br />
+      <strong>Role:</strong> Full build by me<br />
+      <strong>Focus:</strong> Product design, interface structure, workflow thinking, implementation, and launch<br /><br />
+      <a href="https://pigtex.id.vn/">Website</a> |
+      <a href="https://github.com/ctex-ai/PigTex">GitHub</a>
+    </td>
+  </tr>
+ </table>
 
 ## What I Bring
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <strong>Product-minded frontend</strong><br />
-      I build interfaces that are not only visually polished, but also structured for real users and real workflows.
+      <strong>End-to-end product building</strong><br />
+      I can take a project from rough idea to working launch instead of only handling one slice of the stack.
     </td>
     <td width="50%" valign="top">
-      <strong>Clean execution</strong><br />
-      I focus on responsive UI, API integration, performance, and production-ready implementation.
+      <strong>Full-stack website execution</strong><br />
+      I work across frontend, backend logic, APIs, deployment, and product flows to ship complete web experiences.
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <strong>Design sensitivity</strong><br />
-      Typography, layout, spacing, and interaction clarity matter as much to me as clean code.
+      <strong>Fast iteration</strong><br />
+      I like building quickly, testing ideas in real form, and improving through working versions instead of overplanning.
     </td>
     <td width="50%" valign="top">
-      <strong>Remote collaboration</strong><br />
-      Comfortable working asynchronously and collaborating across different time zones.
+      <strong>Visual and product sense</strong><br />
+      I care about typography, spacing, clarity, responsiveness, and overall product feel as much as technical execution.
     </td>
   </tr>
 </table>
 
-## Selected Work
+## Other Projects
 
 <table>
   <tr>
-    <td width="33%" valign="top">
-      <strong>PigTex</strong><br />
-      Desktop AI App<br /><br />
-      Open-source AI assistant platform with multi-task workflows and support for multiple AI models.<br /><br />
-      <a href="https://pigtex.id.vn/">Website</a> |
-      <a href="https://github.com/ctex-ai/PigTex">GitHub</a>
-    </td>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <strong>PassCheck</strong><br />
       Security Web Tool<br /><br />
       Open-source password strength checker and secure password generator built to help users protect their accounts.<br /><br />
       <a href="https://passcheck.carterfill.me/">Website</a> |
       <a href="https://github.com/carterfill/PassCheck">GitHub</a>
     </td>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <strong>TexAPI</strong><br />
       AI Developer Platform<br /><br />
       API proxy platform that unifies multiple AI providers into a single integration layer.<br /><br />
@@ -108,14 +118,14 @@ I enjoy building portfolio websites, landing pages, responsive web interfaces, a
 ## Open To
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Role-Frontend%20Developer-1f6f43?style=for-the-badge" alt="Frontend Developer" />
-  <img src="https://img.shields.io/badge/Role-UI%20Engineer-2f855a?style=for-the-badge" alt="UI Engineer" />
-  <img src="https://img.shields.io/badge/Focus-Product%20Web%20Experiences-2e8b57?style=for-the-badge" alt="Product Web Experiences" />
+  <img src="https://img.shields.io/badge/Role-Full--Stack%20Website%20Developer-1f6f43?style=for-the-badge" alt="Full-Stack Website Developer" />
+  <img src="https://img.shields.io/badge/Role-Product%20Web%20Developer-2f855a?style=for-the-badge" alt="Product Web Developer" />
+  <img src="https://img.shields.io/badge/Focus-AI%20Powered%20Web%20Products-2e8b57?style=for-the-badge" alt="AI Powered Web Products" />
   <img src="https://img.shields.io/badge/Work-Remote%20Collaboration-3b8f5b?style=for-the-badge" alt="Remote Collaboration" />
 </p>
 
 <p align="center">
-  Best fit for teams that care about clean UI, thoughtful UX, and product quality from concept to shipped interface.
+  Best fit for teams that want someone who can turn ideas into complete, polished, and usable product experiences.
 </p>
 
 ## Certification
