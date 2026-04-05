@@ -105,11 +105,17 @@ I enjoy building portfolio websites, landing pages, responsive web interfaces, a
   <img src="https://img.shields.io/badge/Netlify-0f766e?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
 </p>
 
-## GitHub Snapshot
+## Open To
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=carterfill&show_icons=true&theme=vue-dark&hide_border=true" height="165" alt="Carter Fill GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carterfill&layout=compact&theme=vue-dark&hide_border=true" height="165" alt="Top languages" />
+  <img src="https://img.shields.io/badge/Role-Frontend%20Developer-1f6f43?style=for-the-badge" alt="Frontend Developer" />
+  <img src="https://img.shields.io/badge/Role-UI%20Engineer-2f855a?style=for-the-badge" alt="UI Engineer" />
+  <img src="https://img.shields.io/badge/Focus-Product%20Web%20Experiences-2e8b57?style=for-the-badge" alt="Product Web Experiences" />
+  <img src="https://img.shields.io/badge/Work-Remote%20Collaboration-3b8f5b?style=for-the-badge" alt="Remote Collaboration" />
+</p>
+
+<p align="center">
+  Best fit for teams that care about clean UI, thoughtful UX, and product quality from concept to shipped interface.
 </p>
 
 ## Certification
